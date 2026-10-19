@@ -26,7 +26,7 @@ When I type a website address into the browser, DNS helps it find the server tha
 
 ### VS Code with the project open
 
-![VS Code project screenshot](screenshots/vscode-project.png)
+VS Code project screenshot
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e67dcf83-60ce-44d1-97c5-cc5bed43d763" />
 
 ### Node.js version
