@@ -31,12 +31,11 @@ VS Code project screenshot
 
 ### Node.js version
 
-![Node.js version screenshot](screenshots/node-version.png)
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e7d349a9-242a-48d8-ba28-c5f32ac399d9" />
 
 ### Page running with Live Server
 
-![Live Server screenshot](screenshots/live-server-page.png)
+
 <img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/0d3f667b-69f8-465a-9780-903151c26cdf" />
 
 ## Tools installed and verified
